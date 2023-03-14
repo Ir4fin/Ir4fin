@@ -4,7 +4,7 @@
 
 Применяемый основной стек технологий: Java+Selenide - UI; RESTAssured - API; Appium - Mobile.
 
-Здесь можно их посмотреть:
+Здесь можно посмотреть мои проекты:
 
 [Проект по автоматизации тестирования UI-части booking.com](https://github.com/Ir4fin/graduation_project_15_lesson)
 
